@@ -2,7 +2,7 @@
 
 ##  Sandeep Nallapu
 
-# Movies Capstone Project
+
 
 ## Problem Statement
 This project is divided into two parts (The Story of Films will added soon): 
