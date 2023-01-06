@@ -1,4 +1,4 @@
-# Netflix Movie Recommendation System-ML-
+# Netflix Movie Recommendation System-ML
 
 ## -Sandeep Nallapu
 
